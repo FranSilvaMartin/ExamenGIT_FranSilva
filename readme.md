@@ -1,5 +1,4 @@
 ## Repositorio para el examen de GIT
----
 
 ### **Francisco Silva Martín**
 En este examen voy a poner en práctica todos los conocimientos sobre **GIT** que hemos aprendido
